@@ -1,0 +1,13 @@
+.btn-blue {
+  background-color: rgb(79, 70, 223);
+  padding: 15px 20px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
+
+.btn-blue:hover {
+  background-color: rgb(109 229 130);
+  color: black;
+}
